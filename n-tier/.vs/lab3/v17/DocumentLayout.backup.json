@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|solutionrelative:lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\dal\\data\\productdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\data\\productdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\bll\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\lab3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "lab3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\lab3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "lab3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvysAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:32:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\Services\\ProductServices.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductServices.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:24:02.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:23:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Repo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Repo\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\ProductRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:21:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContest.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Data\\ProductDbContest.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\ProductDbContest.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Data\\ProductDbContest.cs",
+              "RelativeToolTip": "DAL\\Data\\ProductDbContest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:20:01.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
