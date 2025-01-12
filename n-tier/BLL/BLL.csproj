@@ -45,9 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="DTO\ProductDto.cs" />
+    <Compile Include="DTO\CategoryDto.cs" />
+    <Compile Include="DTO\NewsCategoryDto.cs" />
+    <Compile Include="DTO\NewsDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\ProductServices.cs" />
+    <Compile Include="Services\NewsServices.cs" />
+    <Compile Include="Services\Utility\MappingProfile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

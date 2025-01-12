@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace DAL.Repo
 {
@@ -15,16 +16,16 @@ namespace DAL.Repo
 		{
 			db = new ProductDbContest();
 		}
-		public void Create(Product s)
+		public void Create(News s)
 		{
-			db.myProducts.Add(s);
+			db.News.Add(s);
 			db.SaveChanges();
 		}
-		public List<Product> Get()
+		public List<News> Get()
 		{
-			return db.myProducts.ToList();
+			return db.News.Include(n => n.Category).ToList();
 		}
-		public void Update(Product s)
+		public void Update(News s)
 		{
 			var exobj = Get(s.Id);
 			db.Entry(exobj).CurrentValues.SetValues(s);
@@ -33,12 +34,12 @@ namespace DAL.Repo
 		public void Delete(int id)
 		{
 			var exobj = Get(id);
-			db.myProducts.Remove(exobj);
+			db.News.Remove(exobj);
 
 		}
-		public Product Get(int id)
+		public News Get(int id)
 		{
-			return db.myProducts.Find(id);
+			return db.News.Include(n => n.Category).FirstOrDefault(n => n.Id == id);
 		}
 	}
 }

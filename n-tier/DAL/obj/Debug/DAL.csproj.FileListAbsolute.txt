@@ -12,3 +12,17 @@ C:\Users\JABER\Desktop\.netFramework\lab3\DAL\obj\Debug\DAL.dll
 C:\Users\JABER\Desktop\.netFramework\lab3\DAL\obj\Debug\DAL.pdb
 C:\Users\JABER\Desktop\.netFramework\lab3\DAL\obj\Debug\DAL.Migrations.dbinitialization.resources
 C:\Users\JABER\Desktop\.netFramework\lab3\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\DAL.dll.config
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\DAL.dll
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\DAL.pdb
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\EntityFramework.dll
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\EntityFramework.xml
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.dll
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.pdb
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.Migrations.dbinitialize.resources
+C:\Users\JABER\Desktop\Dot Net Framework\n-tier\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

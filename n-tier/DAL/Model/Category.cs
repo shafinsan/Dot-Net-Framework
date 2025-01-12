@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 
 namespace DAL.Model
 {
-	public class Product
+	public class Category
 	{
 		[Key]
-		public int Id { get; set; }
+		public int Id { get; set; }	
 		public string Name { get; set; }
-		public string Description { get; set; }
-		public decimal Price { get; set; }
+		public ICollection<News> News { get; set; }
 	}
 }

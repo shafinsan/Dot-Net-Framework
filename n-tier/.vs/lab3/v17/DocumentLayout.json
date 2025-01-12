@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|solutionrelative:lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\bll\\services\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\services\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\lab3\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|solutionrelative:lab3\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\bll\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\bll\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\.netframework\\lab3\\dal\\data\\productdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\bll\\dto\\newscategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\newscategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\dal\\model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\bll\\services\\utility\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23100ABC-FB6E-43CD-B293-E15731E77290}|BLL\\BLL.csproj|solutionrelative:bll\\services\\utility\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\dal\\data\\productdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\data\\productdbcontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40152B-1180-4A53-9A4D-1661CF5B9888}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\lab3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|solutionrelative:lab3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|c:\\users\\jaber\\desktop\\dot net framework\\n-tier\\lab3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8AA2ABAB-45A2-42F3-AE31-0D255329304C}|lab3\\lab3.csproj|solutionrelative:lab3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +67,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\lab3\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "lab3\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\lab3\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "lab3\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Title": "NewsServices.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\Services\\NewsServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NewsServices.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\Services\\NewsServices.cs",
+              "RelativeToolTip": "BLL\\Services\\NewsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:32:22.123Z",
+              "WhenOpened": "2025-01-05T03:26:53.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\Services\\ProductServices.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\Services\\ProductServices.cs",
-              "RelativeToolTip": "BLL\\Services\\ProductServices.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDQAAAAUAAAAAAAAAA==",
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\DTO\\NewsDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\DTO\\NewsDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\NewsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:24:02.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\DTO\\ProductDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\BLL\\DTO\\ProductDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:23:55.473Z",
+              "WhenOpened": "2025-01-05T03:31:09.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
-              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Repo\\ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Repo\\ProductRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repo\\ProductRepo.cs",
-              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Repo\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Repo\\ProductRepo.cs",
               "RelativeToolTip": "DAL\\Repo\\ProductRepo.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwB8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:21:05.729Z",
+              "WhenOpened": "2025-01-05T03:27:33.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductDbContest.cs",
-              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Data\\ProductDbContest.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\ProductDbContest.cs",
-              "ToolTip": "C:\\Users\\JABER\\Desktop\\.netFramework\\lab3\\DAL\\Data\\ProductDbContest.cs",
-              "RelativeToolTip": "DAL\\Data\\ProductDbContest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Title": "NewsCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\DTO\\NewsCategoryDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\NewsCategoryDto.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\DTO\\NewsCategoryDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\NewsCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:20:01.768Z",
+              "WhenOpened": "2025-01-05T03:27:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\Services\\Utility\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Utility\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\BLL\\Services\\Utility\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\Services\\Utility\\MappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:27:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:16:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Web.config",
+              "RelativeDocumentMoniker": "lab3\\Web.config",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Web.config",
+              "RelativeToolTip": "lab3\\Web.config",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-05T03:13:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "lab3\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "lab3\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:57:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Model\\News.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\News.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Model\\News.cs",
+              "RelativeToolTip": "DAL\\Model\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:27:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Global.asax.cs",
+              "RelativeDocumentMoniker": "lab3\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\lab3\\Global.asax.cs",
+              "RelativeToolTip": "lab3\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:10:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDbContest.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Data\\ProductDbContest.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\ProductDbContest.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\Dot Net Framework\\n-tier\\DAL\\Data\\ProductDbContest.cs",
+              "RelativeToolTip": "DAL\\Data\\ProductDbContest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T02:59:26.673Z",
               "EditorCaption": ""
             }
           ]

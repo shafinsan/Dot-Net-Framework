@@ -8,12 +8,36 @@ using System.Threading.Tasks;
 
 namespace DAL.Data
 {
-	internal class ProductDbContest:DbContext
+	public class ProductDbContest:DbContext
 	{
 		public ProductDbContest() : base("ProductDbContest")
 		{
 		}
 
-		public DbSet<Product> myProducts { get; set; }
+		public DbSet<News> News { get; set; }
+		public DbSet<Category> Categories { get; set; }
+		protected override void OnModelCreating(DbModelBuilder modelBuilder)
+		{
+			
+			modelBuilder.Entity<Category>()
+				.HasKey(c => c.Id);
+
+		
+			modelBuilder.Entity<News>()
+				.HasKey(n => n.Id);
+
+		
+			modelBuilder.Entity<Category>()
+				.HasMany(c => c.News)
+				.WithRequired(n => n.Category)
+				.HasForeignKey(n => n.CategoryId);
+
+			base.OnModelCreating(modelBuilder);
+
+		
+
+		}
+
 	}
+	
 }

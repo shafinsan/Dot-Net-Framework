@@ -53,12 +53,13 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Data\ProductDbContest.cs" />
-    <Compile Include="Migrations\202412290313457_dbinitialization.cs" />
-    <Compile Include="Migrations\202412290313457_dbinitialization.Designer.cs">
-      <DependentUpon>202412290313457_dbinitialization.cs</DependentUpon>
+    <Compile Include="Migrations\202501050255250_dbinitialize.cs" />
+    <Compile Include="Migrations\202501050255250_dbinitialize.Designer.cs">
+      <DependentUpon>202501050255250_dbinitialize.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\News.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repo\ProductRepo.cs" />
   </ItemGroup>
@@ -67,8 +68,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202412290313457_dbinitialization.resx">
-      <DependentUpon>202412290313457_dbinitialization.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202501050255250_dbinitialize.resx">
+      <DependentUpon>202501050255250_dbinitialize.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
